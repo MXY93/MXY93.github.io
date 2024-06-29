@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ff8dbb4.css",
+    "main.js": "/static/js/main.17635540.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/Kasa-project.png": "/static/media/Kasa-project.debad5fb91013235da9c.png",
+    "static/media/Bluel-project.png": "/static/media/Bluel-project.9407b04a39ccd3ece9d3.png",
+    "static/media/portfolio-logo.png": "/static/media/portfolio-logo.55c6a85f99603ffa39cc.png",
+    "static/media/MVG-project.png": "/static/media/MVG-project.d9afd8cdec0789f27f30.png",
+    "static/media/Booki-project.png": "/static/media/Booki-project.8fd0a46a5ece5429cce3.png",
+    "static/media/profile-pic.png": "/static/media/profile-pic.cdc76b78222cf9f1c771.png",
+    "static/media/profile-3D.webp": "/static/media/profile-3D.fa688078bc2d89b3810f.webp",
+    "static/media/contact-icon.png": "/static/media/contact-icon.c6d527726a0590fad969.png",
+    "static/media/lightBckgrdImg.png": "/static/media/lightBckgrdImg.53f2e2a9b157964362e8.png",
+    "static/media/SkillThree.png": "/static/media/SkillThree.e4e3b5a9b8ce344d9911.png",
+    "static/media/darkBckgrdImg.png": "/static/media/darkBckgrdImg.c043c8f8b4d29b3b14a3.png",
+    "static/media/presentation-laptop.png": "/static/media/presentation-laptop.7372f3418c67ae898be8.png",
+    "static/media/Sass.png": "/static/media/Sass.caf2f7df6842ccbf5a42.png",
+    "static/media/angFlag.png": "/static/media/angFlag.592325a15fdc12ea7557.png",
+    "static/media/fondAng.png": "/static/media/fondAng.029694fef4ed84b797f6.png",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.5ff8dbb4.css.map": "/static/css/main.5ff8dbb4.css.map",
+    "main.17635540.js.map": "/static/js/main.17635540.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ff8dbb4.css",
+    "static/js/main.17635540.js"
+  ]
+}
