@@ -45,7 +45,6 @@
     "yup": "^1.4.0"
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3",
     "@babel/plugin-proposal-private-property-in-object": "^7.16.7"
   },
   "homepage": "https://mxy93.github.io",
